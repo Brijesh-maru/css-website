@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"path": "../slide1"
+	}
+],
+  "settings": {
+    "files.associations": {
+      "B2.C": "cpp"
+    }
+  }
+}
